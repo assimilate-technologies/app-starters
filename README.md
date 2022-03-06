@@ -1,2 +1,2 @@
-# app-starters
+# App Starters
 Ready to use app starters
